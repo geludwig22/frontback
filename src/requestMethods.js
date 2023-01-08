@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://back-back.up.railway.app/";
+const BASE_URL = "https://finalproject.adaptable.app/";
 // const TOKEN =
 //   JSON.parse(JSON.parse(localStorage.getItem("persist:root")).user).currentUser
 //     .accessToken || "";
